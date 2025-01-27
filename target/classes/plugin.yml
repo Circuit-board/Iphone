@@ -1,9 +1,0 @@
-name: Iphone
-version: '1.0'
-description: A Plugin that adds Iphones to minecraft!
-main: cool.circuit.iphone.Iphone
-api-version: '1.20'
-commands:
-  iphone:
-    usage: "/iphone"
-    description: "Opens the Iphone!"
